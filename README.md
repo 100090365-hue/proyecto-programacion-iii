@@ -1,4 +1,4 @@
-# Sistema de Gestión de Eventos y Facturación 📅🧾
+# Sistema de Gestión de Eventos y Facturación 
 
 ## Descripción del Sistema
 Este es un software de escritorio robusto desarrollado en **C# (.NET 9.0 Windows Forms)** diseñado para administrar eficientemente la logística de alquiler de equipos e insumos de eventos, control de inventario y facturación de servicios comerciales. El sistema ofrece un entorno multiusuario con controles de acceso por roles, permitiendo una operatividad fluida tanto para administradores como para representantes de ventas.
