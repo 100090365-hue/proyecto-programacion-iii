@@ -1,10 +1,10 @@
-# Sistema de Gestión de Eventos y Facturación 
+# Sistema de Gestión de Eventos
 
 ## Descripción del Sistema
 Este es un software de escritorio robusto desarrollado en **C# (.NET 9.0 Windows Forms)** diseñado para administrar eficientemente la logística de alquiler de equipos e insumos de eventos, control de inventario y facturación de servicios comerciales. El sistema ofrece un entorno multiusuario con controles de acceso por roles, permitiendo una operatividad fluida tanto para administradores como para representantes de ventas.
 
 ## Objetivo
-El objetivo principal del sistema es proveer una plataforma integral y centralizada que permita automatizar el ciclo de vida de los eventos corporativos y sociales, abarcando desde el registro inicial del cliente, la gestión de la disponibilidad de artículos de inventario, el cronograma del evento y la emisión final del cobro mediante facturas comerciales estilizadas en formato PDF y exportaciones ordenadas en Excel.
+El objetivo principal del sistema es proveer una plataforma integral y centralizada que permita automatizar el ciclo de vida de los eventos corporativos y sociales, abarcando desde el registro inicial del cliente, la gestión de la disponibilidad de artículos de inventario, el cronograma del evento y la emisión final del cobro mediante facturas en formato PDF y exportaciones ordenadas en Excel.
 
 ---
 
